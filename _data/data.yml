@@ -64,6 +64,11 @@ experiences:
       company: AIMLab, Technion
       details: |
         Supporting the laboratory’s technological aspects, mainly developing cloud environments for data research.
+    - role: Programming Tutor
+      time: April 2020 - Present
+      company: Student Association (ASAT), Technion
+      details: |
+        Helped hundreds of students leaning Python and C on campus. 
     - role: Student Software Developer
       time: August 2019 - October 2019
       company: BeeEye, Israel
@@ -73,7 +78,7 @@ experiences:
       time: January 2017 - April 2018
       company: Medical Electornic Systems (MES), Israel
       details: |
-        Developed Internal applications using React and Node.
+        Developed Internal applications using React and NodeJS.
 military:
     - role: Electronic Intelligence Analyst
       time: 2014 - 2017
