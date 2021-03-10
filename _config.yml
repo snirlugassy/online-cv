@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Snir Lugassy - CV
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: 'http://snirlugassy.github.io/online-cv/'
+baseurl: '/' #change it according to your repository name
 description: Online and public version of my resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
